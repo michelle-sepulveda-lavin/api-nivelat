@@ -5,7 +5,7 @@ const app = express()
 let port = process.env.PORT || 3000
 const data = require('./data.json')
 
-app.use(cors)
+app.use(cors())
 
 app.get('/', (req, res)=>{
     res.status(200).send('Para acceder a la api, favor de acceder a traves de /api/agenda')
