@@ -8,6 +8,11 @@ https://agenda-entrevista.herokuapp.com/api/agenda
   ```
   $ git clone https://github.com/michelle-sepulveda-lavin/api-nivelat.git
   ```
+  
+  ```
+  $ cd api-nivelat
+  ```
+  
   ```
   $ npm install
   ```
