@@ -1,0 +1,18 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "api estatica",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "author": "Michelle Sepulveda",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  },
+  "engines": {
+    "node": "12.17.0"
+  }
+}
